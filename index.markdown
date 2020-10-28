@@ -11,8 +11,8 @@ layout: default
             <img src="/assets/img/photo.jpg" alt="Recep Inanc" class="photo">
         </a>
     </div>
-    <h1 class="title">{{ "Recep Inanc" }}</h1>
-    <p class="description-i">Software Engineer @ <a href="https://www.sahibinden.com/">Sahibinden.com.</a></p>
+    <h1 class="title">{{ "Recep İnanç" }}</h1>
+    <p class="description-i">Software Engineer @ <a href="https://www.sahibinden.com/">Sahibinden.com</a> - Previously @ <a href="https://www.twentify.com/">Twentify</a>.</p>
     <p class="description">"Builds <strong>scalable</strong> and <strong>maintainable</strong> software. Obsessed over <strong>customers</strong>."</p>
     <hr class="main-separator">
     <div class="social-media-links">
