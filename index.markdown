@@ -14,6 +14,6 @@ layout: default
         <a class="social-media-link" href="https://www.linkedin.com/in/recepinanc">@linkedin</a>
         <a class="social-media-link" href="https://github.com/recepinanc/">@github</a>
         <a class="social-media-link" href="https://medium.com/@recepinancc/">@medium</a>
-        <a class="social-media-link" href="mailto:recepinanc@gmail.com">@email</a>
+        <a class="social-media-link" href="mailto:recepinancc@gmail.com">@email</a>
     </div>
 </div>
