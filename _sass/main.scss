@@ -7,6 +7,18 @@ a {
     color: #2980b9;
 }
 
+.image-container {
+    width: 10%;
+}
+
+.photo {
+    margin-bottom: 0;
+    border-radius: 50%;
+    background-clip: padding-box;
+    width: 100%;
+    height: auto;
+}
+
 .container {
     width: 100vw;
     height: 100vh;
@@ -44,5 +56,9 @@ a {
     width: 60%;
     a {
         font-size: larger;
+    }
+    img {
+        width: 25%;
+        height: auto;
     }
 }
